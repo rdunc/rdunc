@@ -22,5 +22,5 @@ I want my code to make a difference in someone's life whether it be making apps 
 ### 🔭 I’m currently working on...
 I am currently learning Rust by creating a note taking app called [Noteo](https://github.com/rdunc/noteo) with [Tauri](https://github.com/tauri-apps/tauri), which allows me to use React along side Rust.
 
-### How to contact me
+### Social Links
 - [https://www.linkedin.com/in/ryand1034/](https://www.linkedin.com/in/ryand1034/)
